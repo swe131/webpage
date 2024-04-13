@@ -1,0 +1,46 @@
+/* styles.css */
+
+/* Style the body tag to modify the font family and font size properties */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Style the header tag to modify the background color property */
+header {
+  background-color: #f0f0f0;
+}
+
+/* Style the nav tag to modify the background color property */
+nav {
+  background-color: #ccc;
+}
+
+/* Style the main tag to modify the background color and font size property */
+main {
+  background-color: #fff;
+  font-size: 14px;
+}
+
+/* Style the footer tag to modify the background color property */
+footer {
+  background-color: #f0f0f0;
+}
+
+/* Style the li tag to modify the display and width properties */
+li {
+  display: inline-block;
+  width: 100px; /* Adjust width as needed */
+}
+
+/* Style the h1 tag to modify the text alignment, font family, and color properties */
+h1 {
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  color: #333;
+}
+
+/* Style the p tag to modify the line height property */
+p {
+  line-height: 1.5;
+}
