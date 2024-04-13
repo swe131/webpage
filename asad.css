@@ -1,0 +1,36 @@
+/* Comment out existing styling for li element */
+/* li {
+    list-style-type: none;
+} */
+
+/* Change nav element to use inline-block */
+nav {
+    display: inline-block;
+    width: 80%;
+}
+
+/* Style only the image in the nav */
+nav img {
+    width: 10%;
+}
+
+/* Style the grid class */
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+/* Style only the images in the grid class to have a width of 100% */
+.grid img {
+    width: 100%;
+}
+
+/* Style the flex class */
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
